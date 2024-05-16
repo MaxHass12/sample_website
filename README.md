@@ -1,0 +1,2 @@
+- A sample website to learn HTML, CSS and Layout.
+- [Link to the website](https://maxhass12.github.io/sample_website/)
